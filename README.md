@@ -7,6 +7,7 @@
 Habilidades: JAVASCRIPT / HTML5 / CSS3 / NODEJS / REACT / VUE / MONGODB
 
 - ⚡ Dato curioso: recuerda, null es un objeto 
+- 🛸 console.log(NaN === NaN); // false | console.log(typeof NaN);  // "number"  || 🤯 wtf!?
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mattpding11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateo-penaranda-diaz-fullstack-developer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mattpding11.github.io/mateo/)  
