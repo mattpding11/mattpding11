@@ -6,6 +6,9 @@
 
 Habilidades: JAVASCRIPT / HTML5 / CSS3 / NODEJS / REACT / VUE / MONGODB
 
+> [!Note]
+> Datos
+
 - ⚡ Dato curioso: recuerda, null es un objeto 
 - 🛸 console.log(NaN === NaN); => //false && console.log(typeof NaN);  =>  //"number"  = 🤯 wtf!?
 
