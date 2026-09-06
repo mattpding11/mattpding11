@@ -5,7 +5,7 @@
 
 ➡️JavaScript es mi especialidad, tengo varios proyecto que puedes ver aquí en mi GitHub o puedes visitar <a href="https://mattpding11.github.io/mateo/" target="_blank">mi sitio web</a>.💡
 
-Habilidades: JAVASCRIPT / HTML5 / CSS3 / NODEJS / REACT / VUE / MONGODB
+Habilidades: JAVASCRIPT TYPESCRIPT / HTML5 / CSS3 / NODEJS / REACT / VUE / MONGODB
 
 > [!Note]
 > Datos
