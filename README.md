@@ -1,6 +1,6 @@
 ### Hola 👋, soy Mateo
-#### Ingeniero en Sistemas y Desarrollador Full-Stack
-##### Portafolio Web Personal: www.mateopenaranda.com
+### Ingeniero en Sistemas y Desarrollador Full-Stack
+#### Portafolio Web Personal: www.mateopenaranda.com
 ![Desarrollador Full-Stack](https://miro.medium.com/max/1400/1*M1IpONYCZXmytCfxJl3HNA.png)
 
 ➡️JavaScript es mi especialidad, tengo varios proyecto que puedes ver aquí en mi GitHub o puedes visitar <a href="https://mattpding11.github.io/mateo/" target="_blank">mi sitio web</a>.💡
